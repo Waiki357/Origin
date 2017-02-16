@@ -1,6 +1,6 @@
-# Reproductor KKLC <h6> tag
+# Reproductor KKLC <h6>
 
-# Paquetes necesarios <h2> tag
+# Paquetes necesarios <h2>
 
 libgl1-mesa-dev
 gstreamer0.10-plugins-bad
@@ -12,7 +12,7 @@ libgstreamer-plugins-base0.10-0
 libgstreamer-plugins-good0.10-0
 ffmpeg
 
-#Caracteristicas implementadas (A parte de las propuestas)<h2> tag
+#Caracteristicas implementadas (A parte de las propuestas)<h2>
 
 Controlador de volumen
 Barra de reproducción
